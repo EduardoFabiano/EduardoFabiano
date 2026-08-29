@@ -14,5 +14,4 @@ print("""Sobre:
 Eu me chamo Eduardo Santos Fabiano, sou um jovem fascinado por ciências exatas e cultura STEM.
 Mineiro de origem, eu busco resolver e entender problemas científicos usando a tecnologia como uma linguagem
 para desvendar o conhecimento humano.""")
-
 ```
