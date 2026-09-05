@@ -1,17 +1,14 @@
-# Bem-vindo ao meu perfil / Welcome to my profile
+import sys
 
-Aqui está o meu script de boas-vindas. Copie o código abaixo e salve em um arquivo chamado `perfil.py`:
+print("  Bem-vindo ao perfil de Eduardo Santos Fabiano!  ")
 
-```python
-print("Bem-vindo ao meu perfil!")
+input("\nPressione ENTER para carregar as informações...\n")
 
-input("Aperte ENTER para continuar...")
+print("Sobre Mim")
+print("Fascinado por ciências exatas, tecnologia e pela cultura STEM.")
+print("Busco entender problemas lógicos e científicos utilizando a ")
+print("computação como uma linguagem para desvendar o conhecimento humano.")
 
-print("Você foi aprovado! Volte sempre.")
-print("Lembrando: se der erro, a culpa é 100% do interpretador!")
-
-print("""Sobre:
-Eu me chamo Eduardo Santos Fabiano, sou um jovem fascinado por ciências exatas e cultura STEM.
-Mineiro de origem, eu busco resolver e entender problemas científicos usando a tecnologia como uma linguagem
-para desvendar o conhecimento humano.""")
-```
+print("\nCanais de Contato")
+print("• LinkedIn: https://linkedin.com")
+print("• GitHub:   https://github.com")
