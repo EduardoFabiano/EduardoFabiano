@@ -4,14 +4,13 @@ Fascinado por ciências exatas, tecnologia e pela cultura STEM. Busco entender p
 
 ---
 
-### Contato e Redes (Links Clicáveis)
+### 📫 Contato
 * **LinkedIn:** [in/eduardo-santos-fabiano](https://linkedin.com)
-* **GitHub:** [://github.com](https://://github.com)
 
 ---
 
-### Script de Boas-Vindas
-Se quiser, copie o código abaixo e salve em um arquivo chamado `perfil.py` para rodar no seu terminal:
+### 💻 Script de Boas-Vindas
+Copie o código abaixo e salve em um arquivo chamado `perfil.py` para rodar no seu terminal:
 
 ```python
 import sys
